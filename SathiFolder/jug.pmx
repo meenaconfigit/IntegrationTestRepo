@@ -26,6 +26,10 @@
     </compile_options>
     <property_values/>
     <product_model_structure>
+      <variable name="material" is_private="false" is_enabled="true" type="String" uuid="8860a796-be86-4acd-8764-62b8b4b54db3" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
       <rules/>
       <relations/>
       <functions/>
