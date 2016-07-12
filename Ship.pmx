@@ -32,6 +32,10 @@
         <relations/>
         <functions/>
         <language_translations/>
+        <variable name="Levels" is_private="false" is_enabled="true" type="Integer" uuid="fe3922c9-5254-4d76-b7ac-7c4751956b94" is_read_only="false">
+          <property_values/>
+          <language_translations/>
+        </variable>
       </group>
       <group name="Engine" is_private="false" is_enabled="true" uuid="67b74320-fbbf-432e-80a8-c8cfe8b16dbf" is_read_only="false">
         <property_values/>
