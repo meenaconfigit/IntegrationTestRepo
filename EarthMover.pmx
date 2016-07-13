@@ -26,6 +26,10 @@
     </compile_options>
     <property_values/>
     <product_model_structure>
+      <variable name="Make" is_private="false" is_enabled="true" type="String" uuid="7cacba5c-e8ab-4c6c-8b6b-df57d4a6f623" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
       <rules/>
       <relations/>
       <functions/>
