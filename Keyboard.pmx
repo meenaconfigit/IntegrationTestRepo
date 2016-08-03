@@ -42,6 +42,10 @@
         <property_values/>
         <language_translations/>
       </variable>
+      <variable name="CDMA_Var" is_private="false" is_enabled="true" type="Boolean" uuid="8c1eb454-cd48-4332-ab9d-b6bf504f5854" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
       <rules/>
       <relations/>
       <functions/>
