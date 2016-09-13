@@ -56,6 +56,10 @@
           <language_translations/>
         </variable>
       </group>
+      <variable name="NewVariable" is_private="false" is_enabled="true" type="Boolean" uuid="05ab051c-d288-4e50-a7d6-58fc4bc02e3f" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
       <rules/>
       <relations/>
       <functions/>
